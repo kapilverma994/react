@@ -1,4 +1,4 @@
-import logo from './easyhrie.png';
+// import logo from './easyhrie.png';
 import './App.css';
 import Navbar from './components/Navbar';
 
